@@ -29,4 +29,38 @@ Goals for this quarter:
 - [ ] CSE 140/141 HW
 - [ ] CSE 101 HW
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [:)](#Stephen's-User-Page)
