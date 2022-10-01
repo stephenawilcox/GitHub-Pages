@@ -1,5 +1,6 @@
 # Stephen's User Page
 **UCSD CSE 110 Fall 2022**
+### Facts
 > The only easy day was yesterday
 
 ![inspirational image](TRUEAF.jpg)
@@ -29,38 +30,4 @@ Goals for this quarter:
 - [ ] CSE 140/141 HW
 - [ ] CSE 101 HW
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[:)](#Stephen's-User-Page)
+[:)](#Facts)
