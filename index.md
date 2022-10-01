@@ -1,12 +1,12 @@
 # Stephen's User Page
-** UCSD CSE 110 Fall 2022
-> The only easy day was yesterday
-![inspirational image](TRUEAF.jpg)
-My favorite git command is:
-`git push --all`
-I don't have a website so here is [one](https://www.minecraft.net/en-us).
-[Another link :)](#Stephen's-User-Page)
-[IMPORTANT INFO](README.md)
+**UCSD CSE 110 Fall 2022**
+> The only easy day was yesterday\n
+![inspirational image](TRUEAF.jpg)\n
+My favorite git command is:\n
+`git push --all`\n
+I don't have a website so here is [one](https://www.minecraft.net/en-us).\n
+[Another link :)](#Stephen's-User-Page)\n
+[IMPORTANT INFO](README.md)\n
 Programming Laguages I've Used:
 - Java
 - C
