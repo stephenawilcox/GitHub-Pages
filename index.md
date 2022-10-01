@@ -10,8 +10,6 @@ My favorite git command is:
 
 I don't have a website so here is [one](https://www.minecraft.net/en-us)
 
-[Another link :)](#Stephen's-User-Page)
-
 [IMPORTANT INFO](README.md)
 
 Programming Laguages I've Used:
@@ -28,3 +26,6 @@ Goals for this quarter:
 - [ ] Don't fail
 - [ ] Don't Procrastinate
 - [ ] Attend Lectures(idk about this one)
+
+[Another link :)](#Stephen's-User-Page)
+
