@@ -12,20 +12,21 @@ I don't have a website so here is [one](https://www.minecraft.net/en-us)
 
 [IMPORTANT INFO](README.md)
 
-Programming Laguages I've Used:
+Programming Languages I've Used:
 - Java
 - C
 - C++
 
-My proficiency in programming languages:
-1. Java
-2. C++
-3. C
-
 Goals for this quarter:
-- [ ] Don't fail
-- [ ] Don't Procrastinate
-- [ ] Attend Lectures(idk about this one)
+1. Don't fail
+2. Don't Procrastinate
+3. Attend Lectures(idk about this one)
 
-[Another link :)](#Stephen's-User-Page)
+- [x] This thing
+- [ ] Watch CSE 140 lectures
+- [ ] Watch CSE 141 lecture
+- [ ] Watch CSE 101 lectures
+- [ ] CSE 140/141 HW
+- [ ] CSE 101 HW
 
+[:)](#Stephen's-User-Page)
