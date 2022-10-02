@@ -9,8 +9,6 @@ My favorite git command is:
 
 `git push --all`
 
-I don't have a website so here is [one](https://www.minecraft.net/en-us)
-
 [IMPORTANT INFO](README.md)
 
 Programming Languages I've Used:
@@ -30,4 +28,6 @@ Goals for this quarter:
 - [ ] CSE 140/141 HW
 - [ ] CSE 101 HW
 
-[:)](#Facts)
+[back to the top](#Facts)
+
+I don't have a website so here is [one](https://www.minecraft.net/en-us)
